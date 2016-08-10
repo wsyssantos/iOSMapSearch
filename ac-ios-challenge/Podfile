@@ -1,0 +1,18 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '7.0'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+target 'ac-ios-challenge' do
+	pod 'AFNetworking', '~> 3.0'
+end
+
+
+target 'ac-ios-challengeTests' do
+
+end
+
+target 'ac-ios-challengeUITests' do
+
+end
+
